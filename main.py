@@ -8,7 +8,7 @@ pygame.init()
 # Screen dimensions
 WIDTH, HEIGHT = 800, 600
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Volleyball Game")
+pygame.display.set_caption("Trample Young Game")
 
 # Load background image
 BG = pygame.image.load("assets/background.jpg")
