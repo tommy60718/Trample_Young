@@ -1,5 +1,5 @@
 # Trample_Young
-Creators: **Liam Lin** and **James Tu**
+### Creators: **Liam Lin** and **James Tu**
 Welcome to **Trample Young**, an exciting 2D action game built with Python and Pygame. Dive into a dynamic environment where quick reflexes and strategic movement are key to overcoming challenges and outplaying your opponent.
 
 ![Game Screenshot](assets/gameplay.png)
